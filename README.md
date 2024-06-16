@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
+<br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitgetgot3017&layout=compact)
 <br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoddo123)](https://solved.ac/ddoddo123/)
